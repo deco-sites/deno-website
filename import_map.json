@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/deno-website/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
